@@ -24,8 +24,7 @@
 
 [<img align="left" alt="arjun-panwar | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
 [<img align="left" alt="c17hawke | YouTube" width="30px" src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" />][YouTube]
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="arjun-panwar" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/arjun-panwar?trk=profile-badge">Arjun Panwar</a></div>
-              
+          
 <br>
 
 <hr>
@@ -33,6 +32,8 @@
 [linkedin]: https://www.linkedin.com/in/c17hawke
 [YouTube]: https://youtube.com/channel/UCv5zguRVl5MU2JEwpkTfL0w
 
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="arjun-panwar" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/arjun-panwar?trk=profile-badge">Arjun Panwar</a></div>
+    
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arjun-panwar&label=Profile%20views&color=0e75b6&style=flat" alt="arjun-panwar" /> </p>
 
