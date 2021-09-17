@@ -36,5 +36,4 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arjun-panwar&label=Profile%20views&color=0e75b6&style=flat" alt="arjun-panwar" /> </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arjun-panwar&" alt="arjun-panwar" /><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arjun-panwar&show_icons=true&locale=en&layout=compact" alt="arjunpanwar" />
-</p>
+
