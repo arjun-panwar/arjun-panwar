@@ -24,7 +24,8 @@
 
 [<img align="left" alt="arjun-panwar | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
 [<img align="left" alt="c17hawke | YouTube" width="30px" src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" />][YouTube]
-
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="arjun-panwar" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/arjun-panwar?trk=profile-badge">Arjun Panwar</a></div>
+              
 <br>
 
 <hr>
