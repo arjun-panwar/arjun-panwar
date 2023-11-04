@@ -4,6 +4,7 @@
 
 ### I have technical experience and interest in -
 * Python
+* Computer Vision
 * Machine learning
 * Data Analytics
 
